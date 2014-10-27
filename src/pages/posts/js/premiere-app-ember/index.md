@@ -582,7 +582,7 @@ Pour finir, je souhaite remercier l'équipe de *Putain de code !* qui ne partage
 vous piquer les yeux. Désolé :-)
 
 
-_Note: Les sources de l'application exemple sont [disponibles sur github](https://github.com/bmeurant/ember-article)._
+_Note: Les sources de l'application exemple sont [disponibles sur github](https://github.com/bmeurant/ember-articles)._
 
 [ember]: http://emberjs.com
 [ember-cli]: http://www.ember-cli.com/
